@@ -1,0 +1,1 @@
+Will attempt to recreate a Google homepage. Once I have completed, I will have demonstrated my basic knowledge on how to use HTML, CSS, and developer tools to replicate a website.
